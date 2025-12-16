@@ -1,3 +1,11 @@
+
+----------------------------------------------
+## Fork of https://github.com/EricLBuehler/mistral.rs
+- Modify `candle` dependencies from official repo to divens fork (updated `cudarc` dependency by way of forking `ug`)
+
+----------------------------------------------
+## Original README
+
 <a name="top"></a>
 <h1 align="center">
   mistral.rs
